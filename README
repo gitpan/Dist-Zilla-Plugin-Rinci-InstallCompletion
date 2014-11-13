@@ -3,9 +3,9 @@ NAME
     for scripts when distribution is installed
 
 VERSION
-    This document describes version 0.02 of
+    This document describes version 0.03 of
     Dist::Zilla::Plugin::Rinci::InstallCompletion (from Perl distribution
-    Dist-Zilla-Plugin-Rinci-InstallCompletion), released on 2014-11-09.
+    Dist-Zilla-Plugin-Rinci-InstallCompletion), released on 2014-11-13.
 
 SYNOPSIS
     In your dist.ini:

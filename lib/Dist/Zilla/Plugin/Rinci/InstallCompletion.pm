@@ -1,9 +1,9 @@
 package Dist::Zilla::Plugin::Rinci::InstallCompletion;
 
-our $DATE = '2014-11-09'; # DATE
-our $VERSION = '0.02'; # VERSION
+our $DATE = '2014-11-13'; # DATE
+our $VERSION = '0.03'; # VERSION
 
-use 5.008001;
+use 5.010001;
 use strict;
 use warnings;
 use utf8;
@@ -89,7 +89,7 @@ Dist::Zilla::Plugin::Rinci::InstallCompletion - Install bash completion for scri
 
 =head1 VERSION
 
-This document describes version 0.02 of Dist::Zilla::Plugin::Rinci::InstallCompletion (from Perl distribution Dist-Zilla-Plugin-Rinci-InstallCompletion), released on 2014-11-09.
+This document describes version 0.03 of Dist::Zilla::Plugin::Rinci::InstallCompletion (from Perl distribution Dist-Zilla-Plugin-Rinci-InstallCompletion), released on 2014-11-13.
 
 =head1 SYNOPSIS
 
